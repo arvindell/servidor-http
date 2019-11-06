@@ -6,7 +6,7 @@ Esta es una demostración de un servidor HTTP para la clase de Sistemas Programa
 2. Descargar el repositorio en formato zip o usando `git clone`
 3. Entrar al directorio en la terminal
 4. Ejecutar `npm install`
-5. Ejecutar ``npm start`
+5. Ejecutar `npm start`
 6. ¡Listo!
 
 ## Creadores
