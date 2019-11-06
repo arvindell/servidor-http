@@ -1,0 +1,15 @@
+{
+  "name": "servidor-http",
+  "version": "1.0.0",
+  "description": "Demostración de un servidor HTTP para la clase de Sistemas Programables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "restify": "^8.4.0",
+    "restify-cors-middleware": "^1.1.1"
+  }
+}
